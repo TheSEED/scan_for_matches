@@ -1,0 +1,2 @@
+#
+./testit test_dna_patterns test_dna_input test_prot_patterns test_prot_input $1
